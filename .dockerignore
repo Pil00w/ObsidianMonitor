@@ -1,0 +1,17 @@
+**/.git
+.github/
+.pytest_cache/
+node_modules/
+tests/
+.dockerignore
+.env
+.env.example
+.gitignore
+app.json
+CODE_OF_CONDUCT.md
+docker-compose*
+Dockerfile*
+LICENSE
+Procfile
+README.md
+runtime.txt
